@@ -1,0 +1,1 @@
+search_result['189']=["topic_0000000000000096.html","Resources.ResourceManager Property","Возврат кэшированного экземпляра ResourceManager, используемого этим классом."];

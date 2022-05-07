@@ -1,0 +1,1 @@
+search_result['53']=["topic_0000000000000024.html","Form1.DeleteRPToolStripMenuItem_Click Method","Обработчик выбора опции удаления выделенного элемента в правом окне в верхнем меню (ToolBar)"];

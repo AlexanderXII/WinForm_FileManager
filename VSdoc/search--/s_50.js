@@ -1,0 +1,1 @@
+search_result['50']=["topic_0000000000000021.html","Form1.PastLeftPanelToolStripMenuItem_Click Method","Обработчик выбора опции вставки скопированного элемента в левое окно в верхнем меню (ToolBar)"];

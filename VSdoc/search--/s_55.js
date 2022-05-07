@@ -1,0 +1,1 @@
+search_result['55']=["topic_0000000000000026.html","Form1.CancelSelectToolStripMenuItem_Click Method","Обработчик выбора опции отмены выделенных элементов окон в верхнем меню (ToolBar)"];

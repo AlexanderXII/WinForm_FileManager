@@ -1,0 +1,1 @@
+search_result['41']=["topic_0000000000000018.html","Form1.CollapsedManagerRight Method","Скрытие/отображения правого окна менеджера"];

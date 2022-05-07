@@ -1,0 +1,1 @@
+search_result['52']=["topic_0000000000000023.html","Form1.CreateDirLPToolStripMenuItem1_Click Method","Обработчик выбора опции создания каталога в левом окне в верхнем меню (ToolBar)"];

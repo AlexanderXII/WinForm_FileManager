@@ -1,0 +1,1 @@
+search_result['48']=["topic_000000000000001F.html","Form1.CopyLPToolStripMenuItem_Click Method","Обработчик выбора опции копирования выделенного элемента левого окна в верхнем меню (ToolBar)"];

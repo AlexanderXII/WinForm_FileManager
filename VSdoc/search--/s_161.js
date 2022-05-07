@@ -1,0 +1,1 @@
+search_result['161']=["topic_0000000000000084.html","ManagerFS.CopyElement_Click Method","Обработчик события выбора функции копировать элемент в верхнем меню (ToolBar)"];

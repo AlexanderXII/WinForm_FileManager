@@ -1,0 +1,1 @@
+search_result['37']=["topic_0000000000000014.html","Form1.arrCopyElementPath Property","Список названий выделенных элементов для копирования"];

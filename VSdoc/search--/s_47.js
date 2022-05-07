@@ -1,0 +1,1 @@
+search_result['47']=["topic_000000000000001E.html","Form1.CopyRPToolStripMenuItem_Click Method","Обработчик выбора опции копирования выделенного элемента правого окна в верхнем меню (ToolBar)"];

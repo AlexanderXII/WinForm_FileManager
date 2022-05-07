@@ -1,0 +1,1 @@
+search_result['27']=["topic_000000000000000F.html","DriveInfoUser.DriveType Property","Определяет константы для типов дисков, включая CDRom, Fixed, сети, NoRootDirectory,\r\nОЗУ, съемных и Unknown."];

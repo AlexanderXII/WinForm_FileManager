@@ -1,0 +1,1 @@
+search_result['40']=["topic_0000000000000017.html","Form1.ParallToolStripMenuItem_Click Method","Обработчик включчения/выключения опции параллельный режим, в верхнем меню (ToolBar)"];

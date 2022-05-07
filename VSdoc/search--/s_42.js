@@ -1,0 +1,1 @@
+search_result['42']=["topic_0000000000000019.html","Form1.MultiCopyToolStripMenuItem_Click Method","Обработчик включения/выключения функции множественного выделения элементов"];

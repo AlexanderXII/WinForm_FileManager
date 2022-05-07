@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"KR_WinForm_FileManager Reference","topic_000000000000009B.html"],['4',"KR_WinForm_FileManager Namespace","topic_0000000000000000.html"],['64',"Program Class","topic_000000000000008F.html"],['65',"Methods","topic_000000000000008F_methods--.html"],['66',"Main Method","topic_0000000000000090.html"]];

@@ -1,0 +1,1 @@
+search_result['44']=["topic_000000000000001B.html","Form1.OpenLPToolStripMenuItem_Click Method","Обработчик выбора опции открытие элемента левого окна в верхнем меню (ToolBar)"];

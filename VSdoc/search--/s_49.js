@@ -1,0 +1,1 @@
+search_result['49']=["topic_0000000000000020.html","Form1.PastFightPanelToolStripMenuItem_Click Method","Обработчик выбора опции вставки скопированного элемента в правое окно в верхнем меню (ToolBar)"];

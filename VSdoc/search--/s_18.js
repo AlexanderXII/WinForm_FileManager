@@ -1,0 +1,1 @@
+search_result['18']=["topic_000000000000000B.html","DriveInfoUser Class","Информация о дисках. Вспомогательный класс."];

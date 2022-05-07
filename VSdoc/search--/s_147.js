@@ -1,0 +1,1 @@
+search_result['147']=["topic_0000000000000076.html","ManagerFS.CopyToSelectD_Click Method","Обработчик события выбора в контекстном меню функии копирования"];
